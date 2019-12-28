@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_58872_needit_user__sys_user_</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-28 08:06:05</sys_created_on>
+        <sys_id>69bae4f40782001029effa7f7c1ed09d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_user__sys_user_</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>ua_table_licensing_config_69bae4f40782001029effa7f7c1ed09d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-28 08:06:05</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3f9e3fdfdb4d80500ae3ac44d49619de</instance_id>
+        <instance_name>dev94821</instance_name>
+        <name>ua_table_licensing_config_69bae4f40782001029effa7f7c1ed09d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_58872_needit_user__sys_user_</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-28 08:06:05</sys_created_on><sys_id>69bae4f40782001029effa7f7c1ed09d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_user__sys_user_</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>ua_table_licensing_config_69bae4f40782001029effa7f7c1ed09d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-28 08:06:05</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-1646620020</payload_hash>
+        <record_name>x_58872_needit_user__sys_user_</record_name>
+        <reverted_from/>
+        <source>03e8a4170731001029effa7f7c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-28 08:06:05</sys_created_on>
+        <sys_id>edbae4f40782001029effa7f7c1ed09e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f4b8a7e370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-28 08:06:05</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>29bae4f4e282001035c67aa245c23b9e</update_guid>
+        <update_guid_history>29bae4f4e282001035c67aa245c23b9e:-1646620020</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-28 08:10:48</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>86cc2f17364e4828b74a015b86ee3040</sys_id>
+        <sys_metadata>69bae4f40782001029effa7f7c1ed09d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_user__sys_user_</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_69bae4f40782001029effa7f7c1ed09d</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_69bae4f40782001029effa7f7c1ed09d">edbae4f40782001029effa7f7c1ed09e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-28 08:10:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="category_name" table="x_58872_needit_assignee_category" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>x_58872_needit_assignee_category</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-28 08:50:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb74b07007c2001029effa7f7c1ed0c2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-28 08:50:38</sys_updated_on>
+            <value>facilities</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category_name</element>
+            <name>x_58872_needit_assignee_category</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-28 08:49:11</sys_created_on>
+            <sys_id>3894bc3007c2001029effa7f7c1ed0b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category_name</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_assignee_category_category_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-28 08:49:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3f9e3fdfdb4d80500ae3ac44d49619de</instance_id>
+        <instance_name>dev94821</instance_name>
+        <name>sys_choice_x_58872_needit_assignee_category_category_name</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="category_name" table="x_58872_needit_assignee_category" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>category_name</element><hint/><inactive>false</inactive><label>Facilities</label><language>en</language><name>x_58872_needit_assignee_category</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-28 08:50:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fb74b07007c2001029effa7f7c1ed0c2</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-28 08:50:38</sys_updated_on><value>facilities</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>category_name</element><name>x_58872_needit_assignee_category</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-28 08:49:11</sys_created_on><sys_id>3894bc3007c2001029effa7f7c1ed0b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>category_name</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_x_58872_needit_assignee_category_category_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-28 08:49:11</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>95602052</payload_hash>
+        <record_name>Assignee Category.Category name</record_name>
+        <reverted_from/>
+        <source>03e8a4170731001029effa7f7c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-28 08:56:37</sys_created_on>
+        <sys_id>7d46fcb007c2001029effa7f7c1ed07c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f4bb8c3a00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-28 08:56:37</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>f546fcb0d6c20010f33d7c073da16b7c</update_guid>
+        <update_guid_history>f546fcb0d6c20010f33d7c073da16b7c:95602052,f54638b06bc20010afe193aa6ae1b4c5:-669964441,0ee43c301dc2001003423fade5e9613c:1239602314,f3d4f07072c20010d4aa21b99430a2a9:-41285856,cdc4f07068c20010a20fcc6e907774d9:-1501844051,fc94bc30e7c2001048057c5c74bbbbba:980351114</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-28 08:56:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>3894bc3007c2001029effa7f7c1ed0b9</sys_id>
+        <sys_metadata>3894bc3007c2001029effa7f7c1ed0b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>category_name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_assignee_category_category_name</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_assignee_category_category_name">7d46fcb007c2001029effa7f7c1ed07c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-28 08:56:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
